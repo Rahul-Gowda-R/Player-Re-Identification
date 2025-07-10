@@ -147,7 +147,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
----
 
-Let me know when you've pasted this, Rahul. Then I’ll guide you to add a badge, repo topics, or even write a short post about it for LinkedIn or your internship submission. Let's make it shine! 🚀
-```
