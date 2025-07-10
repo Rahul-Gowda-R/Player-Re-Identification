@@ -86,7 +86,8 @@ pip install -r requirements.txt
 2. **Download YOLOv11 weights**
 
 > ⚠️ The model weights are not included in this repo due to GitHub's 100MB limit.
-> Place the trained `.pt` file as:
+> Place the trained `.pt` file as:🔗 [Download YOLOv11 Weights](https://drive.google.com/drive/folders/1T7oL6y6jfyfKNhWivx3WQEX6MumdO6M3?usp=drive_link)
+
 
 ```
 models/yolov11_weights.pt
