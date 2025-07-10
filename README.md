@@ -1,6 +1,3 @@
----
-
-```markdown
 # ⚽ Player Re-Identification in Sports Broadcasts using YOLOv11
 
 This project implements an **AI-powered Player Re-Identification system** in sports videos using the **YOLOv11** object detection model and a **centroid-based tracking** mechanism. It identifies and tracks players across frames, generating persistent IDs for re-identification — useful for analytics, coaching, or post-match breakdowns.
